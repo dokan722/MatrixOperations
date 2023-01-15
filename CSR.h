@@ -1,6 +1,7 @@
 #pragma once
 #include <vector>
 #include <stdexcept>
+#include <algorithm>
 #include "Commons.h"
 
 template <typename Field>
